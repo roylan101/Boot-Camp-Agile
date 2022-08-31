@@ -12,7 +12,7 @@ import Kraken_Request as kr
 import os
 
 
-
+##comment
 
 # print string to comand line welcome to your Python Trading Bot
 print("Welcome to your Python Trading Bot")
